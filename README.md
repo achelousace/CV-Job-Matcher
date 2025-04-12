@@ -37,7 +37,7 @@ CV-Job Matcher is a Python-based tool that helps tailor your CV/resume to specif
 
 3. Set up your OpenAI API key by creating a `.env` file:
    ```
-   OPENAI_API_KEY=your_api_key_here
+   OPENAI_API_KEY= your_api_key_here
    ```
 
 ## Usage
