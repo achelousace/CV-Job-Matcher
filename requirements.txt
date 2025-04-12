@@ -1,0 +1,11 @@
+langchain-text-splitters
+langchain-community
+langchain-openai
+langchain
+faiss-cpu
+python-dotenv
+pydantic
+openai
+playwright
+PyPDF2
+typing-extensions
