@@ -26,7 +26,7 @@ CV-Job Matcher is a Python-based tool that helps tailor your CV/resume to specif
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/cv-job-matcher.git
+   git clone https://github.com/achelousace/CV-Job-Matcher
    cd cv-job-matcher
    ```
 
@@ -45,7 +45,7 @@ CV-Job Matcher is a Python-based tool that helps tailor your CV/resume to specif
 ### Basic Usage
 
 ```python
-from cv_job_matcher import CVJobMatcher
+from Cv_Agent import CVJobMatcher
 
 # Initialize with your CV file path and a job posting URL
 matcher = CVJobMatcher(
