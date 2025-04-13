@@ -349,8 +349,8 @@ class CVJobMatcher:
 
 # Usage example
 if __name__ == "__main__":
-    cv_path = r"C:\Users\Ace\Desktop\learning\Mohammad Abu Ayyash CV 2025.pdf"
-    job_posting_url = "https://www.linkedin.com/jobs/view/4198208213"
+    cv_path = "your_cv.pdf"
+    job_posting_url = "https:/job_link"
     
     matcher = CVJobMatcher(cv_path, job_posting_url, api_key=api_key)
     # Start the matching process
